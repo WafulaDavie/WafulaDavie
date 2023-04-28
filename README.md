@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WafulaDavie
 - 👀 I’m interested in ... Cybersecurity, Cloud Computing, Coding
-- 🌱 I’m currently learning ... Microsoft Azure, Ethical Hacking.
+- 🌱 I’m currently learning ... Microsoft Azure,AWS, UI/UX Design and Ethical Hacking.
 - 💞️ I’m looking to collaborate on ... Anything Technology
 - 📫 How to reach me ... check bio!
 
